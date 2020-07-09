@@ -1,7 +1,7 @@
 # time_tracker
 
-A new Flutter project.
-
+A new Flutter project to track user time.
+This app uses sqflite package to store data locally. We can also track our time distribution of last seven days. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
